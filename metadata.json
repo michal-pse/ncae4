@@ -1,0 +1,6 @@
+{
+  "name": "NCAE Energy Portal",
+  "description": "Connecting Energy Potential - Polish National Center for Advanced Energy's interactive portal featuring living system architecture simulators and innovation insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
