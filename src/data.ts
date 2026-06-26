@@ -62,7 +62,7 @@ export const DICTIONARY = {
     contact: 'Contact',
     pressKit: 'Press Kit',
     publications: 'Publications',
-    copyright: '© 2024 National Center for Advanced Energy. Strategic Research for a Sustainable Future.',
+    copyright: '© 2026 National Center for Advanced Energy. Strategic Research for a Sustainable Future.',
     
     // Simulator Labels
     simTitle: 'Interactive Grid Balancing Sandbox',
@@ -152,7 +152,7 @@ export const DICTIONARY = {
     contact: 'Kontakt',
     pressKit: 'Materiały prasowe',
     publications: 'Publikacje',
-    copyright: '© 2024 Krajowe Centrum Zaawansowanej Energii. Strategiczne Badania dla Zrównoważonej Przyszłości.',
+    copyright: '© 2026 Krajowe Centrum Zaawansowanej Energii. Strategiczne Badania dla Zrównoważonej Przyszłości.',
     
     // Simulator Labels
     simTitle: 'Interaktywna Piaskownica Bilansowania Sieci',
